@@ -28,4 +28,5 @@ Edite `content.json` mantendo a estrutura JSON. Os textos estão organizados em 
 
 O repositório está preparado para GitHub Pages com arquivos estáticos na raiz. No GitHub, abra **Settings → Pages**, escolha **Deploy from a branch**, selecione `main` e `/ (root)`, e salve. Para publicar alterações, faça commit e push para `main`.
 
-URL GitHub Pages: será preenchida após publicação.
+URL GitHub Pages: https://alvaro-tm-pgm.github.io/portfolio-nossa-historia-escolar/
+
